@@ -1,1 +1,4 @@
-.vercel
+/venv
+___pychache__/
+*.pyc
+.env
